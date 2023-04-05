@@ -1,0 +1,13 @@
+# Final-Year-Project-
+Fintech and its scope in conducting Financial Crimes:
+
+Fintech currently refers to a wide range of areas and industries. This massive expansion of Fintech Industries also brings a platform for financial crimes.
+One of the most prevalent criminal activities in the fintech sector is money laundering. Money laundering is the process by which a significant amount of illicit funds is made to appear to have come from a legitimate source. For a complicated issue like money laundering, there are numerous components that are taken into consideration. The most commonly used phenomenon is ‘Know Your Customer’ (KYC) which is collected to identify customers who are using the applications. ‘Know Your Customer’ plays an important role in designing anti-money laundering instruments. Investing huge funds in analytics, and hiring investigators are a few procedures that aid fintech companies to stop money laundering. However, this approach tends to be expensive for emerging startups in fintech. The obvious solution is utilizing machine learning algorithms. Finding trends in a dataset where most transactions have been validated as legal and just a small number have been classified as illicit is difficult. The goal of this project is to find an easier path to fight money laundering and provide optimal solutions using Machine Learning and Artificial Intelligence. Compare results of anomaly detections in the transactions from the artificially created datasets. The main reason for the failure to detect these criminal activities is the rapid increase in traffic. Graph analytics is one of the solutions that could find patterns in fraudulent transactions and Graph Machine Learning Algorithms to detect anomalies in the wildly unbalanced dataset.
+
+
+
+The AMLSim platform offers a simulated banking system that provides a vast, anonymized dataset of synthetic transactions. This dataset contains transactional data, account information, and other relevant financial information, along with several features that can be utilized to identify potential suspicious activities. Researchers have the ability to leverage this platform to test and assess various AML models and algorithms, including but not limited to anomaly detection, clustering, and graph-based approaches.
+The AMLSim project represents a valuable resource for researchers and data scientists who are interested in developing and evaluating new AML techniques and algorithms. Additionally, regulators and financial institutions can use this platform to enhance their AML programs and improve their capabilities in detecting and preventing illicit financial activities.
+
+
+
